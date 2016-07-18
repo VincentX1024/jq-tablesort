@@ -1,4 +1,4 @@
-# jquery-tablesort
+# jq-tablesort
 A tiny &amp; simple jQuery plugin for sortable tables.
 Work perfect with [Semantic UI](http://semantic-ui.com/collections/table.html#sortable) sortable table
 
