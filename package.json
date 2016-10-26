@@ -1,6 +1,6 @@
 {
   "name": "jq-tablesort",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A tiny & simple jQuery plugin for sortable tables. ",
   "main": "index.js",
   "scripts": {
