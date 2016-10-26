@@ -1,6 +1,6 @@
 {
   "name": "jq-tablesort",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A tiny & simple jQuery plugin for sortable tables. ",
   "main": "index.js",
   "scripts": {
@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VincentQ-X/jq-tablesort.git"
+    "url": "git+https://github.com/Vincent-X/jq-tablesort.git"
   },
   "keywords": [
     "tablesort",
     "jq-tablesort"
   ],
-  "author": "VincentQ",
+  "author": "Vincent-X",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/VincentQ-X/jq-tablesort/issues"
+    "url": "https://github.com/Vincent-X/jq-tablesort/issues"
   },
-  "homepage": "https://github.com/VincentQ-X/jq-tablesort#readme",
+  "homepage": "https://github.com/Vincent-X/jq-tablesort#readme",
   "dependencies": {
     "jquery": "3.*"
   }
